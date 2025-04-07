@@ -53,3 +53,9 @@ def longestOnes(self, nums: List[int], k: int) -> int:
         return j - i + 1
 ```
 > Copied from [Lee](https://leetcode.com/problems/max-consecutive-ones-iii/solutions/247564/java-c-python-sliding-window). To see more details, please click the link. Amazing solution!
+
+
+### Similar Problems
+- [1493. Longest Substring of 1's After Deleting One Elements](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)
+
+
